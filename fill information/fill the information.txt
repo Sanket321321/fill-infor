@@ -1,0 +1,74 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <style>
+        body{
+            background-color: blue(37 ,219 ,10);
+            color: black(255, 240, 240);
+            box-sizing: border-box;
+            border: 2px solid black;
+            width: 45%;
+        }
+        .fk1{
+            border: 5px solid black;
+            box-sizing: border-box;
+            margin: 5px;
+            width: 45%;
+            background-color:white;
+
+        }
+        fk2 input{
+            font-size: 20px;
+            border 20px scrollbar white-space: ;
+            box-sizing: border-box;
+            margin: 5px;
+
+        }
+        abhi2{
+            color: blue;
+            font-size: 20px;
+        }
+    </style>
+    <body>
+        <center>
+            <div class="one"
+            <div class="thre"
+            <h1>step: youre detailes</h1>
+        </div class ="fk1">
+        <label>name</label>
+        <input type="text" placeholder="first and last name">
+        <br>
+    </div>
+        <div class="fk1">
+            <label>email</label>
+            <input type="text" placeholder="abc@gmaill.com">
+        </br>
+
+        </div>
+        <div class="fk1">
+            <label>phone number</label>
+            <input type ="text"placholder="3256356257">
+        </div>
+        </center>
+            </body>
+            </body>
+        </div>
+        <div>
+            <h1>step two delivery aderres </h1>
+            <div class ="fk1">
+                <label> address</label>
+                <input type=" text"
+            </div>
+            <div class="fk1">
+                <label> post code</label>
+                <inpute type ="text">
+            </div>
+            <div class="fk1" 
+            <lable>country</lable>
+            <input type="text"
+            
+        </div>
+    
+</body>
+</html>
